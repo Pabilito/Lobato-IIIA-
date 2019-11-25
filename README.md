@@ -1,2 +1,2 @@
-# Lobato-IIIA-
-ODE solved using Lobato IIIA method in MATLAB.
+# Lobatto-IIIA-
+ODE solved using Lobatto IIIA method in MATLAB.
